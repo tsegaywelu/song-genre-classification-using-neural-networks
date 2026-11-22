@@ -1,6 +1,6 @@
 # Song Genre Classification
 
-This CSE 572 Data Mining project uses neural networks to predict music genres from song lyrics and metadata. The dataset contains **2,500 labeled training songs**, **627 evaluation songs**, and **14 genres**. Each song can have one or more genres.
+This Data Mining project uses neural networks to predict music genres from song lyrics and metadata. The dataset contains **2,500 labeled training songs**, **627 evaluation songs**, and **14 genres**. Each song can have one or more genres.
 
 ## Results
 
